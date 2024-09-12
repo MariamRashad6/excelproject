@@ -13,21 +13,21 @@ The Excel workbook contains the following tabs:
 ### 1. 📝 Overview
 This tab provides a high-level summary of sales performance, including total revenue, number of customers, and key metrics for the reporting period.
 
-![Overview Tab](Excel Project/sales report.png
+![Overview Tab](images/overview.png)
 
 ---
 
 ### 2. 💵 Financial
 The financial tab delves into the sales figures, revenue, and profitability analysis. Key metrics such as gross profit, net income, and expenses are analyzed.
 
-![Financial Tab](Excel Project/financial.png)
+![Financial Tab](images/financial.png)
 
 ---
 
 ### 3. 🌍 Customers & Geography
 This tab highlights customer data and sales distribution across different geographical locations. It explores customer segmentation, region-specific performance, and trends.
 
-![Customers & Geography Tab](Excel Project/customer and geo.png)
+![Customers & Geography Tab](images/customer.png)
 
 ---
 
